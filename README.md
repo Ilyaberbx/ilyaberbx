@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ilyaberbx" alt="ilyaberbx" /></a> </p>
 
-- 🔭 I’m currently working on [Jong Journey Home (Beware Of Winter Forest)](https://ilyaberbx.itch.io/beware-of-winterforest)
-
 - 🌱 I’m currently learning **Unity Net Code**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ilyaberbx](https://github.com/Ilyaberbx)
